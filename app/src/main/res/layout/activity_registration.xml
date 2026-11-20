@@ -1,9 +1,0 @@
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/create_acco"
-    android:layout_width="375dp"
-    android:layout_height="1015dp"
-    android:clipToOutline="true"
-    android:background="#FFFFFF"
-    />
-
